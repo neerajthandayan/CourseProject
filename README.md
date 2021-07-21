@@ -1,5 +1,5 @@
 # Data Science & Decison Making - Module Project
-# Ethnic Diversity & Police Bias in England & Wales
+## Ethnic Diversity & Police Bias in England & Wales
 
 ### Project Report & Finding available in 'Project Report' file.
 ### All python notebooks available in 'Notebooks' folder.
