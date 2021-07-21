@@ -1,5 +1,7 @@
-# CE888 CourseProject
+# Data Science & Decison Making - Module Project
+# Ethnic Diversity & Police Bias in England & Wales
 
+### Project Report & Finding available in 'Project Report' file.
 ### All python notebooks available in 'Notebooks' folder.
 ### All datasets in 'Data' folder.
 ### All .png files of visualisations in 'Plots' folder.
